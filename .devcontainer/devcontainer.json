@@ -2,7 +2,7 @@
     "name": "devcontainer-python3.9",
     "build": {
       "dockerfile": "Dockerfile",
-      "image": "pycircos_comaparative_species",
+      "image": "pycircos_comparative_species",
       "args": {
         "VARIANT": "3.9-bullseye"
       }
@@ -19,7 +19,8 @@
           "ms-toolsai.vscode-jupyter-cell-tags",
           "ms-toolsai.jupyter-keymap",
           "GitHub.copilot",
-          "ms-azuretools.vscode-docker"
+          "ms-azuretools.vscode-docker",
+          "mechatroner.rainbow-csv"
         ]
       }
 
