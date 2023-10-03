@@ -9,7 +9,7 @@
     },
     "runArgs": [
       "--init"
-      ], // なぜつけるのか? ゾンビプロセスになることを防ぐため (参考：https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/docker-in-docker.md)
+      ], // なぜつけるのか? ゾンビプロセスになることを防ぐためとのこと (参考：https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/docker-in-docker.md)
     "customizations": { // 書き方が変わったらしい (https://zenn.dev/newgyu/scraps/4c24bf3df804bd)
       "vscode": {
         "extensions": [
