@@ -37,7 +37,16 @@
 &nbsp;
 
 3. __rice__
+
+    1. chromosome size (Assembly version)
+
     - IRGSP-1.0
     - <https://plants.ensembl.org/Oryza_sativa/Info/Annotation/#assembly>
     - <https://ftp.ncbi.nlm.nih.gov/genomes/all/GCA/001/433/935/GCA_001433935.1_IRGSP-1.0/GCA_001433935.1_IRGSP-1.0_assembly_report.txt>
     - 上記のリンクを元にchromosomeのサイズファイルを作成
+
+    &nbsp;
+
+    2. HN-score
+
+    - スコアをもとに抽出した遺伝子群のアノテーションをEnsembl Plants release 56にアクセスし取得
