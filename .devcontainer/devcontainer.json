@@ -2,7 +2,7 @@
   "name": "devcontainer-python3.9",
   "build": {
     "context": "..",
-    "dockerfile": "Dockerfile",
+    "dockerfile": "./Dockerfile",
     "image": "pycircos_comparative_species",
     "args": {
       "VARIANT": "3.9-bullseye"
