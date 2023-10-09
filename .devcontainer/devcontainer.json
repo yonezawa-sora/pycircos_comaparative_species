@@ -1,6 +1,7 @@
 {
   "name": "devcontainer-python3.9",
   "build": {
+    "context": "..",
     "dockerfile": "Dockerfile",
     "image": "pycircos_comparative_species",
     "args": {
