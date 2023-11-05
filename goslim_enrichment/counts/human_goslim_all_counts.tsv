@@ -1,138 +1,138 @@
-GO Term	Count
-GO:0043226	56768
-GO:0005634	32321
-GO:0003824	27759
-GO:0023052	21244
-GO:0005886	19067
-GO:0005829	18510
-GO:0005654	16444
-GO:0048856	14715
-GO:0006351	12942
-GO:0036211	12775
-GO:0006355	12326
-GO:0005576	12225
-GO:0016787	11509
-GO:0140096	11048
-GO:0016740	10983
-GO:0030154	10821
-GO:0003677	9223
-GO:0002376	8853
-GO:0005615	8732
-GO:0005856	8683
-GO:0031410	8020
-GO:0003723	7930
-GO:0098772	7469
-GO:0065003	7171
-GO:0005783	7018
-GO:0055085	6441
-GO:0012501	6011
-GO:0005694	5982
-GO:0140110	5927
-GO:0005794	5910
-GO:0005739	5876
-GO:0005215	5587
-GO:0016192	5292
-GO:0060089	5185
-GO:0005730	5043
-GO:0007155	4858
-GO:0007010	4832
-GO:0006629	4614
-GO:0016071	4292
-GO:0048870	4270
-GO:0008092	4141
-GO:1901135	3940
-GO:0005768	3726
-GO:0098542	3405
-GO:0022414	3368
-GO:0050877	3364
-GO:0030163	3291
-GO:0016491	3216
-GO:0006886	3167
-GO:0140657	3052
-GO:0005815	2999
-GO:0005198	2978
-GO:0008289	2938
-GO:0005773	2866
-GO:0006325	2853
-GO:0006281	2755
-GO:0000278	2750
-GO:0005764	2573
-GO:0055086	2508
-GO:0061024	2292
-GO:0006954	2239
-GO:0005929	2175
-GO:0005975	2017
-GO:0034330	2008
-GO:0060090	1860
-GO:0140098	1827
-GO:0005635	1826
-GO:0006914	1691
-GO:0006091	1644
-GO:0007005	1567
-GO:0003924	1518
-GO:0003013	1512
-GO:0048018	1432
-GO:0005840	1398
-GO:0140097	1367
-GO:0030312	1358
-GO:0031012	1357
-GO:0055065	1327
-GO:0044782	1318
-GO:0007018	1309
-GO:0006520	1272
-GO:0042060	1212
-GO:0007059	1197
-GO:0003012	1174
-GO:0006399	1105
-GO:0006913	1075
-GO:0031047	1050
-GO:0006310	1022
-GO:0016874	1015
-GO:0006790	1010
-GO:0051604	986
-GO:0140014	967
-GO:0006260	946
-GO:0006486	918
-GO:0016829	912
-GO:0006457	872
-GO:0016853	868
-GO:0042254	864
-GO:0072659	791
-GO:0045182	781
-GO:0042393	756
-GO:0030198	727
-GO:0000228	700
-GO:0032200	646
-GO:0007163	640
-GO:0000910	634
-GO:0003774	609
-GO:0006575	509
-GO:0002181	509
-GO:0140013	498
-GO:0005777	497
-GO:0140053	374
-GO:0005811	348
-GO:0098754	346
-GO:0038024	328
-GO:0140104	317
-GO:0140299	297
-GO:0001618	290
-GO:0006766	280
-GO:0003014	276
-GO:0044183	265
-GO:0016209	245
-GO:0007040	240
-GO:0098631	223
-GO:0022600	215
-GO:0140223	206
-GO:0050886	187
-GO:0016073	165
-GO:0007031	126
-GO:0009975	89
-GO:0140313	85
-GO:0003016	50
-GO:0071941	36
-GO:0031386	36
-GO:0071554	3
-GO:0007568	3
-GO:0120274	1
+GOSlim GOA Accession(s)	GOSlim GOA Description	Count
+GO:0000228	nuclear chromosome	700
+GO:0000278	mitotic cell cycle	2750
+GO:0000910	cytokinesis	634
+GO:0001618	virus receptor activity	290
+GO:0002181	cytoplasmic translation	509
+GO:0002376	immune system process	8853
+GO:0003012	muscle system process	1174
+GO:0003013	circulatory system process	1512
+GO:0003014	renal system process	276
+GO:0003016	respiratory system process	50
+GO:0003677	DNA binding	9223
+GO:0003723	RNA binding	7930
+GO:0003774	cytoskeletal motor activity	609
+GO:0003824	catalytic activity	27759
+GO:0003924	GTPase activity	1518
+GO:0005198	structural molecule activity	2978
+GO:0005215	transporter activity	5587
+GO:0005576	extracellular region	12225
+GO:0005615	extracellular space	8732
+GO:0005634	nucleus	32321
+GO:0005635	nuclear envelope	1826
+GO:0005654	nucleoplasm	16444
+GO:0005694	chromosome	5982
+GO:0005730	nucleolus	5043
+GO:0005739	mitochondrion	5876
+GO:0005764	lysosome	2573
+GO:0005768	endosome	3726
+GO:0005773	vacuole	2866
+GO:0005777	peroxisome	497
+GO:0005783	endoplasmic reticulum	7018
+GO:0005794	Golgi apparatus	5910
+GO:0005811	lipid droplet	348
+GO:0005815	microtubule organizing center	2999
+GO:0005829	cytosol	18510
+GO:0005840	ribosome	1398
+GO:0005856	cytoskeleton	8683
+GO:0005886	plasma membrane	19067
+GO:0005929	cilium	2175
+GO:0005975	carbohydrate metabolic process	2017
+GO:0006091	generation of precursor metabolites and energy	1644
+GO:0006260	DNA replication	946
+GO:0006281	DNA repair	2755
+GO:0006310	DNA recombination	1022
+GO:0006325	chromatin organization	2853
+GO:0006351	DNA-templated transcription	12942
+GO:0006355	regulation of DNA-templated transcription	12326
+GO:0006399	tRNA metabolic process	1105
+GO:0006457	protein folding	872
+GO:0006486	protein glycosylation	918
+GO:0006520	cellular amino acid metabolic process	1272
+GO:0006575	cellular modified amino acid metabolic process	509
+GO:0006629	lipid metabolic process	4614
+GO:0006766	vitamin metabolic process	280
+GO:0006790	sulfur compound metabolic process	1010
+GO:0006886	intracellular protein transport	3167
+GO:0006913	nucleocytoplasmic transport	1075
+GO:0006914	autophagy	1691
+GO:0006954	inflammatory response	2239
+GO:0007005	mitochondrion organization	1567
+GO:0007010	cytoskeleton organization	4832
+GO:0007018	microtubule-based movement	1309
+GO:0007031	peroxisome organization	126
+GO:0007040	lysosome organization	240
+GO:0007059	chromosome segregation	1197
+GO:0007155	cell adhesion	4858
+GO:0007163	establishment or maintenance of cell polarity	640
+GO:0007568	aging	3
+GO:0008092	cytoskeletal protein binding	4141
+GO:0008289	lipid binding	2938
+GO:0009975	cyclase activity	89
+GO:0012501	programmed cell death	6011
+GO:0016071	mRNA metabolic process	4292
+GO:0016073	snRNA metabolic process	165
+GO:0016192	vesicle-mediated transport	5292
+GO:0016209	antioxidant activity	245
+GO:0016491	oxidoreductase activity	3216
+GO:0016740	transferase activity	10983
+GO:0016787	hydrolase activity	11509
+GO:0016829	lyase activity	912
+GO:0016853	isomerase activity	868
+GO:0016874	ligase activity	1015
+GO:0022414	reproductive process	3368
+GO:0022600	digestive system process	215
+GO:0023052	signaling	21244
+GO:0030154	cell differentiation	10821
+GO:0030163	protein catabolic process	3291
+GO:0030198	extracellular matrix organization	727
+GO:0030312	external encapsulating structure	1358
+GO:0031012	extracellular matrix	1357
+GO:0031047	gene silencing by RNA	1050
+GO:0031386	protein tag	36
+GO:0031410	cytoplasmic vesicle	8020
+GO:0032200	telomere organization	646
+GO:0034330	cell junction organization	2008
+GO:0036211	protein modification process	12775
+GO:0038024	cargo receptor activity	328
+GO:0042060	wound healing	1212
+GO:0042254	ribosome biogenesis	864
+GO:0042393	histone binding	756
+GO:0043226	organelle	56768
+GO:0044183	protein folding chaperone	265
+GO:0044782	cilium organization	1318
+GO:0045182	translation regulator activity	781
+GO:0048018	receptor ligand activity	1432
+GO:0048856	anatomical structure development	14715
+GO:0048870	cell motility	4270
+GO:0050877	nervous system process	3364
+GO:0050886	endocrine process	187
+GO:0051604	protein maturation	986
+GO:0055065	metal ion homeostasis	1327
+GO:0055085	transmembrane transport	6441
+GO:0055086	nucleobase-containing small molecule metabolic process	2508
+GO:0060089	molecular transducer activity	5185
+GO:0060090	molecular adaptor activity	1860
+GO:0061024	membrane organization	2292
+GO:0065003	protein-containing complex assembly	7171
+GO:0071554	cell wall organization or biogenesis	3
+GO:0071941	nitrogen cycle metabolic process	36
+GO:0072659	protein localization to plasma membrane	791
+GO:0098542	defense response to other organism	3405
+GO:0098631	cell adhesion mediator activity	223
+GO:0098754	detoxification	346
+GO:0098772	molecular function regulator activity	7469
+GO:0120274	virus coreceptor activity	1
+GO:0140013	meiotic nuclear division	498
+GO:0140014	mitotic nuclear division	967
+GO:0140053	mitochondrial gene expression	374
+GO:0140096	catalytic activity, acting on a protein	11048
+GO:0140097	catalytic activity, acting on DNA	1367
+GO:0140098	catalytic activity, acting on RNA	1827
+GO:0140104	molecular carrier activity	317
+GO:0140110	transcription regulator activity	5927
+GO:0140223	general transcription initiation factor activity	206
+GO:0140299	small molecule sensor activity	297
+GO:0140313	molecular sequestering activity	85
+GO:0140657	ATP-dependent activity	3052
+GO:1901135	carbohydrate derivative metabolic process	3940
