@@ -21,6 +21,7 @@ RUN pip install \
     numpy \
     matplotlib \ 
     scipy \
+    statsmodels \
     seaborn \ 
     jupyter \ 
     ipykernel \ 
