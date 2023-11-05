@@ -20,6 +20,7 @@ RUN pip install \
     pandas \ 
     numpy \
     matplotlib \ 
+    scipy \
     seaborn \ 
     jupyter \ 
     ipykernel \ 
