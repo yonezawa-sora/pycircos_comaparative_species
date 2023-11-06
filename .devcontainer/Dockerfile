@@ -6,10 +6,23 @@ ARG VARIANT="3.9-bullseye"
 FROM mcr.microsoft.com/vscode/devcontainers/python:0-${VARIANT}
 
 # Install additional packages
-# ここは必要に応じて変更する予定です
+# Install R and rpy2 dependencies
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    r-base \
+    r-base-dev \
+    libcurl4-gnutls-dev \
+    libssl-dev \
+    libxml2-dev \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
-# 0. pipのアップデート(念のため)
+# Install rpy2
 RUN pip install --upgrade pip
+RUN pip install rpy2
+
+# Install R packages
+RUN R -e "install.packages('BiocManager', repos = 'http://cran.us.r-project.org')"
+RUN R -e "BiocManager::install('enrichplot')"
 
 # 1. 必要なパッケージのインストール
 RUN pip install \
