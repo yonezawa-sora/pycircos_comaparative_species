@@ -1,117 +1,117 @@
-GOSlim GOA Accession(s)	GOSlim GOA Description	Count
-GO:0000228	nuclear chromosome	2
-GO:0000278	mitotic cell cycle	15
-GO:0001618	virus receptor activity	7
-GO:0002376	immune system process	94
-GO:0003012	muscle system process	49
-GO:0003013	circulatory system process	46
-GO:0003014	renal system process	4
-GO:0003677	DNA binding	100
-GO:0003723	RNA binding	37
-GO:0003824	catalytic activity	148
-GO:0003924	GTPase activity	8
-GO:0005198	structural molecule activity	19
-GO:0005215	transporter activity	52
-GO:0005576	extracellular region	175
-GO:0005615	extracellular space	138
+GOSlim GOA Accession(s)	GOSlim GOA Description	counts
+GO:0043226	organelle	373
 GO:0005634	nucleus	221
-GO:0005635	nuclear envelope	11
-GO:0005654	nucleoplasm	136
-GO:0005694	chromosome	48
-GO:0005730	nucleolus	44
-GO:0005739	mitochondrion	54
-GO:0005764	lysosome	19
-GO:0005768	endosome	24
-GO:0005773	vacuole	19
-GO:0005777	peroxisome	1
-GO:0005783	endoplasmic reticulum	48
-GO:0005794	Golgi apparatus	35
-GO:0005815	microtubule organizing center	13
-GO:0005829	cytosol	123
-GO:0005840	ribosome	1
-GO:0005856	cytoskeleton	61
+GO:0023052	signaling	219
+GO:0005576	extracellular region	175
+GO:0048856	anatomical structure development	160
 GO:0005886	plasma membrane	154
-GO:0005929	cilium	22
-GO:0005975	carbohydrate metabolic process	7
-GO:0006091	generation of precursor metabolites and energy	8
-GO:0006260	DNA replication	2
-GO:0006281	DNA repair	2
-GO:0006310	DNA recombination	12
-GO:0006325	chromatin organization	11
+GO:0003824	catalytic activity	148
 GO:0006351	DNA-templated transcription	142
 GO:0006355	regulation of DNA-templated transcription	140
-GO:0006457	protein folding	86
-GO:0006486	protein glycosylation	7
-GO:0006520	cellular amino acid metabolic process	12
-GO:0006629	lipid metabolic process	56
-GO:0006766	vitamin metabolic process	3
-GO:0006790	sulfur compound metabolic process	2
-GO:0006886	intracellular protein transport	35
-GO:0006913	nucleocytoplasmic transport	13
-GO:0006914	autophagy	16
-GO:0006954	inflammatory response	28
-GO:0007005	mitochondrion organization	18
-GO:0007010	cytoskeleton organization	26
-GO:0007018	microtubule-based movement	17
-GO:0007059	chromosome segregation	4
-GO:0007155	cell adhesion	54
-GO:0007163	establishment or maintenance of cell polarity	4
-GO:0008092	cytoskeletal protein binding	20
-GO:0008289	lipid binding	41
-GO:0009975	cyclase activity	3
-GO:0012501	programmed cell death	74
-GO:0016071	mRNA metabolic process	8
-GO:0016073	snRNA metabolic process	2
-GO:0016192	vesicle-mediated transport	28
-GO:0016209	antioxidant activity	2
-GO:0016491	oxidoreductase activity	21
-GO:0016740	transferase activity	62
-GO:0016787	hydrolase activity	60
-GO:0016829	lyase activity	6
-GO:0016853	isomerase activity	14
-GO:0022414	reproductive process	37
-GO:0022600	digestive system process	2
-GO:0023052	signaling	219
-GO:0030154	cell differentiation	95
-GO:0030163	protein catabolic process	16
-GO:0030198	extracellular matrix organization	10
-GO:0030312	external encapsulating structure	16
-GO:0031012	extracellular matrix	16
-GO:0031047	gene silencing by RNA	4
-GO:0031386	protein tag	5
-GO:0031410	cytoplasmic vesicle	64
-GO:0032200	telomere organization	4
-GO:0034330	cell junction organization	12
-GO:0036211	protein modification process	88
-GO:0042060	wound healing	15
-GO:0042254	ribosome biogenesis	1
-GO:0042393	histone binding	1
-GO:0043226	organelle	373
-GO:0044183	protein folding chaperone	39
-GO:0044782	cilium organization	3
-GO:0045182	translation regulator activity	1
-GO:0048018	receptor ligand activity	33
-GO:0048856	anatomical structure development	160
-GO:0048870	cell motility	52
-GO:0050877	nervous system process	22
-GO:0050886	endocrine process	2
-GO:0051604	protein maturation	15
-GO:0055085	transmembrane transport	71
-GO:0055086	nucleobase-containing small molecule metabolic process	5
-GO:0060089	molecular transducer activity	40
-GO:0060090	molecular adaptor activity	16
-GO:0061024	membrane organization	11
-GO:0065003	protein-containing complex assembly	53
-GO:0072659	protein localization to plasma membrane	1
-GO:0098542	defense response to other organism	34
-GO:0098754	detoxification	2
+GO:0005615	extracellular space	138
+GO:0005654	nucleoplasm	136
+GO:0005829	cytosol	123
 GO:0098772	molecular function regulator activity	101
-GO:0140013	meiotic nuclear division	4
-GO:0140014	mitotic nuclear division	8
-GO:0140053	mitochondrial gene expression	1
-GO:0140096	catalytic activity, acting on a protein	51
-GO:0140098	catalytic activity, acting on RNA	5
-GO:0140104	molecular carrier activity	9
+GO:0003677	DNA binding	100
+GO:0030154	cell differentiation	95
+GO:0002376	immune system process	94
 GO:0140110	transcription regulator activity	90
+GO:0036211	protein modification process	88
+GO:0006457	protein folding	86
+GO:0012501	programmed cell death	74
+GO:0055085	transmembrane transport	71
+GO:0031410	cytoplasmic vesicle	64
+GO:0016740	transferase activity	62
+GO:0005856	cytoskeleton	61
+GO:0016787	hydrolase activity	60
+GO:0006629	lipid metabolic process	56
+GO:0007155	cell adhesion	54
+GO:0005739	mitochondrion	54
+GO:0065003	protein-containing complex assembly	53
+GO:0048870	cell motility	52
+GO:0005215	transporter activity	52
+GO:0140096	catalytic activity, acting on a protein	51
+GO:0003012	muscle system process	49
+GO:0005694	chromosome	48
+GO:0005783	endoplasmic reticulum	48
+GO:0003013	circulatory system process	46
+GO:0005730	nucleolus	44
+GO:0008289	lipid binding	41
+GO:0060089	molecular transducer activity	40
+GO:0044183	protein folding chaperone	39
+GO:0022414	reproductive process	37
+GO:0003723	RNA binding	37
 GO:0140657	ATP-dependent activity	36
+GO:0006886	intracellular protein transport	35
+GO:0005794	Golgi apparatus	35
+GO:0098542	defense response to other organism	34
+GO:0048018	receptor ligand activity	33
 GO:1901135	carbohydrate derivative metabolic process	31
+GO:0016192	vesicle-mediated transport	28
+GO:0006954	inflammatory response	28
+GO:0007010	cytoskeleton organization	26
+GO:0005768	endosome	24
+GO:0005929	cilium	22
+GO:0050877	nervous system process	22
+GO:0016491	oxidoreductase activity	21
+GO:0008092	cytoskeletal protein binding	20
+GO:0005773	vacuole	19
+GO:0005198	structural molecule activity	19
+GO:0005764	lysosome	19
+GO:0007005	mitochondrion organization	18
+GO:0007018	microtubule-based movement	17
+GO:0031012	extracellular matrix	16
+GO:0006914	autophagy	16
+GO:0030312	external encapsulating structure	16
+GO:0030163	protein catabolic process	16
+GO:0060090	molecular adaptor activity	16
+GO:0051604	protein maturation	15
+GO:0042060	wound healing	15
+GO:0000278	mitotic cell cycle	15
+GO:0016853	isomerase activity	14
+GO:0005815	microtubule organizing center	13
+GO:0006913	nucleocytoplasmic transport	13
+GO:0034330	cell junction organization	12
+GO:0006310	DNA recombination	12
+GO:0006520	cellular amino acid metabolic process	12
+GO:0061024	membrane organization	11
+GO:0006325	chromatin organization	11
+GO:0005635	nuclear envelope	11
+GO:0030198	extracellular matrix organization	10
+GO:0140104	molecular carrier activity	9
+GO:0016071	mRNA metabolic process	8
+GO:0140014	mitotic nuclear division	8
+GO:0003924	GTPase activity	8
+GO:0006091	generation of precursor metabolites and energy	8
+GO:0005975	carbohydrate metabolic process	7
+GO:0006486	protein glycosylation	7
+GO:0001618	virus receptor activity	7
+GO:0016829	lyase activity	6
+GO:0140098	catalytic activity, acting on RNA	5
+GO:0055086	nucleobase-containing small molecule metabolic process	5
+GO:0031386	protein tag	5
+GO:0007163	establishment or maintenance of cell polarity	4
+GO:0031047	gene silencing by RNA	4
+GO:0007059	chromosome segregation	4
+GO:0140013	meiotic nuclear division	4
+GO:0003014	renal system process	4
+GO:0032200	telomere organization	4
+GO:0006766	vitamin metabolic process	3
+GO:0044782	cilium organization	3
+GO:0009975	cyclase activity	3
+GO:0098754	detoxification	2
+GO:0006281	DNA repair	2
+GO:0016073	snRNA metabolic process	2
+GO:0006790	sulfur compound metabolic process	2
+GO:0050886	endocrine process	2
+GO:0016209	antioxidant activity	2
+GO:0006260	DNA replication	2
+GO:0022600	digestive system process	2
+GO:0000228	nuclear chromosome	2
+GO:0072659	protein localization to plasma membrane	1
+GO:0005777	peroxisome	1
+GO:0005840	ribosome	1
+GO:0140053	mitochondrial gene expression	1
+GO:0045182	translation regulator activity	1
+GO:0042393	histone binding	1
+GO:0042254	ribosome biogenesis	1

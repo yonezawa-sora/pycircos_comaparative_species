@@ -1,81 +1,81 @@
-GOSlim GOA Accession(s)	GOSlim GOA Description	Count
-GO:0000003	reproduction	11
-GO:0000166	nucleotide binding	51
+GOSlim GOA Accession(s)	GOSlim GOA Description	counts
 GO:0003674	molecular_function	243
-GO:0003676	nucleic acid binding	40
-GO:0003677	DNA binding	26
-GO:0003700	DNA-binding transcription factor activity	18
-GO:0003723	RNA binding	11
-GO:0003824	catalytic activity	107
-GO:0005198	structural molecule activity	2
-GO:0005215	transporter activity	11
-GO:0005488	binding	181
-GO:0005515	protein binding	81
-GO:0005575	cellular_component	231
-GO:0005576	extracellular region	10
-GO:0005622	intracellular anatomical structure	175
-GO:0005634	nucleus	60
-GO:0005654	nucleoplasm	3
-GO:0005730	nucleolus	1
-GO:0005737	cytoplasm	134
-GO:0005739	mitochondrion	15
-GO:0005773	vacuole	11
-GO:0005777	peroxisome	2
-GO:0005783	endoplasmic reticulum	34
-GO:0005794	Golgi apparatus	3
-GO:0005829	cytosol	30
-GO:0005840	ribosome	1
-GO:0005856	cytoskeleton	1
-GO:0005886	plasma membrane	13
-GO:0005975	carbohydrate metabolic process	15
-GO:0006091	generation of precursor metabolites and energy	12
-GO:0006139	nucleobase-containing compound metabolic process	48
-GO:0006259	DNA metabolic process	4
-GO:0006412	translation	3
-GO:0006629	lipid metabolic process	6
-GO:0006810	transport	23
-GO:0006950	response to stress	84
-GO:0007049	cell cycle	4
-GO:0007154	cell communication	18
-GO:0007165	signal transduction	18
-GO:0007275	multicellular organism development	14
-GO:0008135	translation factor activity, RNA binding	1
 GO:0008150	biological_process	232
+GO:0005575	cellular_component	231
+GO:0009987	cellular process	183
+GO:0005488	binding	181
+GO:0005622	intracellular anatomical structure	175
+GO:0005737	cytoplasm	134
 GO:0008152	metabolic process	127
-GO:0008219	cell death	5
-GO:0008289	lipid binding	7
-GO:0009056	catabolic process	25
+GO:0003824	catalytic activity	107
+GO:0006950	response to stress	84
+GO:0016020	membrane	82
+GO:0005515	protein binding	81
+GO:0005634	nucleus	60
+GO:0042221	response to chemical	57
+GO:0009628	response to abiotic stimulus	57
+GO:0000166	nucleotide binding	51
+GO:0016787	hydrolase activity	50
+GO:0006139	nucleobase-containing compound metabolic process	48
 GO:0009058	biosynthetic process	45
-GO:0009416	response to light stimulus	5
+GO:0019538	protein metabolic process	42
+GO:0003676	nucleic acid binding	40
+GO:0016043	cellular component organization	36
+GO:0005783	endoplasmic reticulum	34
+GO:0005829	cytosol	30
+GO:0003677	DNA binding	26
+GO:0009056	catabolic process	25
+GO:0006810	transport	23
 GO:0009507	chloroplast	21
 GO:0009536	plastid	21
-GO:0009579	thylakoid	5
-GO:0009605	response to external stimulus	9
-GO:0009607	response to biotic stimulus	8
-GO:0009628	response to abiotic stimulus	57
-GO:0009719	response to endogenous stimulus	19
-GO:0009790	embryo development	3
-GO:0009791	post-embryonic development	9
-GO:0009856	pollination	1
-GO:0009908	flower development	4
-GO:0009987	cellular process	183
-GO:0015979	photosynthesis	7
-GO:0016020	membrane	82
-GO:0016043	cellular component organization	36
-GO:0016049	cell growth	1
-GO:0016301	kinase activity	9
-GO:0016740	transferase activity	19
-GO:0016787	hydrolase activity	50
-GO:0019538	protein metabolic process	42
-GO:0019725	cellular homeostasis	9
-GO:0019748	secondary metabolic process	3
-GO:0030154	cell differentiation	1
-GO:0030234	enzyme regulator activity	10
-GO:0030246	carbohydrate binding	6
-GO:0036211	protein modification process	12
-GO:0040007	growth	1
-GO:0042221	response to chemical	57
-GO:0045182	translation regulator activity	1
-GO:0048856	anatomical structure development	15
-GO:0065009	regulation of molecular function	11
 GO:0140110	transcription regulator activity	21
+GO:0009719	response to endogenous stimulus	19
+GO:0016740	transferase activity	19
+GO:0007154	cell communication	18
+GO:0007165	signal transduction	18
+GO:0003700	DNA-binding transcription factor activity	18
+GO:0005739	mitochondrion	15
+GO:0005975	carbohydrate metabolic process	15
+GO:0048856	anatomical structure development	15
+GO:0007275	multicellular organism development	14
+GO:0005886	plasma membrane	13
+GO:0006091	generation of precursor metabolites and energy	12
+GO:0036211	protein modification process	12
+GO:0065009	regulation of molecular function	11
+GO:0000003	reproduction	11
+GO:0003723	RNA binding	11
+GO:0005215	transporter activity	11
+GO:0005773	vacuole	11
+GO:0005576	extracellular region	10
+GO:0030234	enzyme regulator activity	10
+GO:0009605	response to external stimulus	9
+GO:0009791	post-embryonic development	9
+GO:0016301	kinase activity	9
+GO:0019725	cellular homeostasis	9
+GO:0009607	response to biotic stimulus	8
+GO:0015979	photosynthesis	7
+GO:0008289	lipid binding	7
+GO:0006629	lipid metabolic process	6
+GO:0030246	carbohydrate binding	6
+GO:0009579	thylakoid	5
+GO:0009416	response to light stimulus	5
+GO:0008219	cell death	5
+GO:0006259	DNA metabolic process	4
+GO:0009908	flower development	4
+GO:0007049	cell cycle	4
+GO:0005654	nucleoplasm	3
+GO:0019748	secondary metabolic process	3
+GO:0005794	Golgi apparatus	3
+GO:0009790	embryo development	3
+GO:0006412	translation	3
+GO:0005198	structural molecule activity	2
+GO:0005777	peroxisome	2
+GO:0030154	cell differentiation	1
+GO:0005730	nucleolus	1
+GO:0016049	cell growth	1
+GO:0040007	growth	1
+GO:0005840	ribosome	1
+GO:0045182	translation regulator activity	1
+GO:0009856	pollination	1
+GO:0005856	cytoskeleton	1
+GO:0008135	translation factor activity, RNA binding	1
