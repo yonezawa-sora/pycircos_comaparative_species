@@ -6,27 +6,12 @@ ARG VARIANT="3.9-bullseye"
 FROM mcr.microsoft.com/vscode/devcontainers/python:0-${VARIANT}
 
 # Install additional packages
-# Install R and rpy2 dependencies
-# Install R and rpy2 dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     r-base \
-    r-base-dev \
-    libcurl4-gnutls-dev \
-    libssl-dev \
-    libxml2-dev \
-    libharfbuzz-dev \
-    libfribidi-dev \
-    libgit2-dev \
-    && apt-get clean \
-    && rm -rf /var/lib/apt/lists/*
+    r-base-dev 
 
-# Install rpy2
+# update pip
 RUN pip install --upgrade pip
-RUN pip install rpy2
-
-# Install BiocManager and enrichplot from Bioconductor
-RUN R -e "install.packages('BiocManager', repos = 'http://cran.us.r-project.org')"
-RUN R -e "BiocManager::install('enrichplot')"
 
 # Install python packages
 RUN pip install \
@@ -47,7 +32,8 @@ RUN pip install \
     PyYAML \ 
     requests \ 
     python-dotenv \
-    python-circos
+    python-circos \
+    rpy2 
 
 # Jupyter Notebookの設定
 RUN python3 -m ipykernel install --user
