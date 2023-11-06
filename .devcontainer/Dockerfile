@@ -7,12 +7,16 @@ FROM mcr.microsoft.com/vscode/devcontainers/python:0-${VARIANT}
 
 # Install additional packages
 # Install R and rpy2 dependencies
+# Install R and rpy2 dependencies
 RUN apt-get update && apt-get install -y --no-install-recommends \
     r-base \
     r-base-dev \
     libcurl4-gnutls-dev \
     libssl-dev \
     libxml2-dev \
+    libharfbuzz-dev \
+    libfribidi-dev \
+    libgit2-dev \
     && apt-get clean \
     && rm -rf /var/lib/apt/lists/*
 
@@ -20,11 +24,11 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
 RUN pip install --upgrade pip
 RUN pip install rpy2
 
-# Install R packages
+# Install BiocManager and enrichplot from Bioconductor
 RUN R -e "install.packages('BiocManager', repos = 'http://cran.us.r-project.org')"
 RUN R -e "BiocManager::install('enrichplot')"
 
-# 1. 必要なパッケージのインストール
+# Install python packages
 RUN pip install \
     openai \ 
     biopython \ 
