@@ -1,0 +1,25 @@
+chr	start	end	Sequence-Role	Assigned-Molecule-Location	Assigned-Molecule-Type	GenBank-Accn	Relationship	RefSeq-Accn	Assembly-Unit	Assembly-Unit
+1	1	248956422	assembled-molecule	1	Chromosome	CM000663.2	=	NC_000001.11	Primary Assembly	chr1
+2	1	242193529	assembled-molecule	2	Chromosome	CM000664.2	=	NC_000002.12	Primary Assembly	chr2
+3	1	198295559	assembled-molecule	3	Chromosome	CM000665.2	=	NC_000003.12	Primary Assembly	chr3
+4	1	190214555	assembled-molecule	4	Chromosome	CM000666.2	=	NC_000004.12	Primary Assembly	chr4
+5	1	181538259	assembled-molecule	5	Chromosome	CM000667.2	=	NC_000005.10	Primary Assembly	chr5
+6	1	170805979	assembled-molecule	6	Chromosome	CM000668.2	=	NC_000006.12	Primary Assembly	chr6
+7	1	159345973	assembled-molecule	7	Chromosome	CM000669.2	=	NC_000007.14	Primary Assembly	chr7
+8	1	145138636	assembled-molecule	8	Chromosome	CM000670.2	=	NC_000008.11	Primary Assembly	chr8
+9	1	138394717	assembled-molecule	9	Chromosome	CM000671.2	=	NC_000009.12	Primary Assembly	chr9
+10	1	133797422	assembled-molecule	10	Chromosome	CM000672.2	=	NC_000010.11	Primary Assembly	chr10
+11	1	135086622	assembled-molecule	11	Chromosome	CM000673.2	=	NC_000011.10	Primary Assembly	chr11
+12	1	133275309	assembled-molecule	12	Chromosome	CM000674.2	=	NC_000012.12	Primary Assembly	chr12
+13	1	114364328	assembled-molecule	13	Chromosome	CM000675.2	=	NC_000013.11	Primary Assembly	chr13
+14	1	107043718	assembled-molecule	14	Chromosome	CM000676.2	=	NC_000014.9	Primary Assembly	chr14
+15	1	101991189	assembled-molecule	15	Chromosome	CM000677.2	=	NC_000015.10	Primary Assembly	chr15
+16	1	90338345	assembled-molecule	16	Chromosome	CM000678.2	=	NC_000016.10	Primary Assembly	chr16
+17	1	83257441	assembled-molecule	17	Chromosome	CM000679.2	=	NC_000017.11	Primary Assembly	chr17
+18	1	80373285	assembled-molecule	18	Chromosome	CM000680.2	=	NC_000018.10	Primary Assembly	chr18
+19	1	58617616	assembled-molecule	19	Chromosome	CM000681.2	=	NC_000019.10	Primary Assembly	chr19
+20	1	64444167	assembled-molecule	20	Chromosome	CM000682.2	=	NC_000020.11	Primary Assembly	chr20
+21	1	46709983	assembled-molecule	21	Chromosome	CM000683.2	=	NC_000021.9	Primary Assembly	chr21
+22	1	50818468	assembled-molecule	22	Chromosome	CM000684.2	=	NC_000022.11	Primary Assembly	chr22
+X	1	156040895	assembled-molecule	X	Chromosome	CM000685.2	=	NC_000023.11	Primary Assembly	chrX
+Y	1	57227415	assembled-molecule	Y	Chromosome	CM000686.2	=	NC_000024.10	Primary Assembly	chrY

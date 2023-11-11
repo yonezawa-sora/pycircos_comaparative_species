@@ -1,4 +1,4 @@
-data/*
+data/biomart_goslim
 .DS_Store
 foldseek
 foldseek-linux-arm64.tar.gz
