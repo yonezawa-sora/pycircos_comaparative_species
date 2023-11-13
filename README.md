@@ -35,6 +35,13 @@
     - HGNC accessed 2023/11/05
     - g:profiler accessed 2023/11/05
 
+    ### 2023/11/13
+
+    - ファイルを間違って消してしまったので再度同じ作業(g:convert)を実行
+    - 重複してヒットした場合は遺伝子シンボルが同じIDを選択
+    - HGNC accessed 2023/11/13
+    - g:profiler accessed 2023/11/13
+
     #### Gene Convert (previous gene name -> current gene name)
 
     1. CDRT1: FBXW10B <https://www.genenames.org/data/gene-symbol-report/#!/hgnc_id/HGNC:14379>
