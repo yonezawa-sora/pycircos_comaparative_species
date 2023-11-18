@@ -4,4 +4,4 @@ foldseek
 foldseek-linux-arm64.tar.gz
 dataformat
 datasets
-data/common_goslim_correspondence_all.tsv
+data/GOslim_merge/
