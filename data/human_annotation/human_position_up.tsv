@@ -1,4 +1,4 @@
-Gene stable ID	Chromosome/scaffold name	Gene start (bp)	Gene end (bp)	Strand	HN-score(HN5)	name
+Gene stable ID	Chromosome/scaffold name	start2 (bp)	end2 (bp)	Strand	HN-score(HN5)	name
 ENSG00000173110	1	161524540	161526894	1	245	HSPA6
 ENSG00000204389	6	31815543	31817946	1	239	HSPA1A
 ENSG00000204388	6	31827738	31830254	1	231	HSPA1B
