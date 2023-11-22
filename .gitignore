@@ -5,3 +5,6 @@ foldseek-linux-arm64.tar.gz
 dataformat
 datasets
 data/GOslim_merge/
+data/HN-score_human/
+data/HN-score_mouse/
+data/HN-score_rice/
