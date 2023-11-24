@@ -33,7 +33,7 @@ RUN pip install \
     requests \ 
     python-dotenv \
     python-circos \
-    rpy2 
+    gprofiler-official
 
 # Jupyter Notebookの設定
 RUN python3 -m ipykernel install --user
