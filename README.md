@@ -17,7 +17,8 @@
 
     2. mouse (taxid: )
         - GRCm39
-        - <>
+        - <https://ftp.ncbi.nlm.nih.gov/genomes/all/annotation_releases/10090/GCF_000001635.27-RS_2023_04/GCF_000001635.27_GRCm39_assembly_report.txt>
+        - 上記のリンクを元にchromosomeのサイズファイルを作成
 
     3. rice (taxid: 39947)
         - IRGSP-1.0
