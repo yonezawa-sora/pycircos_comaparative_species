@@ -103,4 +103,4 @@
 
 3. Gene Ontology (GOSlim)
 
-- <https://feb2023-plants.ensembl.org/index.html>
+- <https://feb2023-plants.ensembl.org/index.html> Ensembl Plants 56
