@@ -1,9 +1,8 @@
 {
   "name": "devcontainer-python3.9",
   "build": {
-    "context": "..",
-    "dockerfile": "./Dockerfile",
-    "image": "pycircos_comparative_species",
+    "dockerfile": "Dockerfile",
+    "context": "./",
     "args": {
       "VARIANT": "3.9-bullseye"
     }
@@ -31,5 +30,5 @@
         //https://containers.dev/features ← ここに書き方が記載されている
     "ghcr.io/devcontainers/features/docker-in-docker:2": "latest",
 		"ghcr.io/devcontainers/features/git:1": "os-provided"
-    }
+  }
 }
