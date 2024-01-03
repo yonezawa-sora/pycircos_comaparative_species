@@ -34,7 +34,7 @@ RUN pip install \
     python-dotenv \
     python-circos \
     gprofiler-official \
-    polars
+    polars==0.20.3
 
 # Jupyter Notebookの設定
 RUN python3 -m ipykernel install --user
