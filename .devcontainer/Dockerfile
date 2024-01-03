@@ -1,7 +1,6 @@
-# 丹生さんのCWL for remote container(https://github.com/tom-tan/cwl-for-remote-container-template/tree/master)を参考にしました
+# Reference: https://github.com/tom-tan/cwl-for-remote-container-template/tree/master
 
 # Get arguments for python version (in this case, python 3.9 image is used)
-
 ARG VARIANT="3.9-bullseye"
 FROM mcr.microsoft.com/vscode/devcontainers/python:0-${VARIANT}
 
@@ -10,31 +9,23 @@ RUN apt-get update && apt-get install -y --no-install-recommends \
     r-base \
     r-base-dev 
 
-# update pip
-RUN pip install --upgrade pip
-
-# Install python packages
-RUN pip install \
-    openai \ 
-    biopython \ 
-    google \
-    gspread \ 
-    pandas \ 
-    numpy \
-    matplotlib \ 
-    scipy \
-    statsmodels \
-    seaborn \ 
-    jupyter \ 
-    ipykernel \ 
-    urllib3 \ 
-    retry \ 
-    PyYAML \ 
-    requests \ 
-    python-dotenv \
-    python-circos \
-    gprofiler-official \
+# upgrade pip & install python packages
+RUN pip install \ 
+    --upgrade pip \
+    numpy==1.26.2 \ 
+    pandas==2.1.4 \ 
+    matplotlib==3.8.2 \ 
+    seaborn==0.13.1 \ 
+    SciPy==1.11.4 \
+    statsmodels==0.14.1 \
+    jupyter==1.0.0 \ 
+    ipykernel==6.28.0 \ 
+    urllib3==2.1.0 \
+    retry==0.9.2 \
+    PyYAML==6.0.1 \ 
+    requests==2.31.0 \ 
+    python-circos==0.3.0 \
     polars==0.20.3
 
-# Jupyter Notebookの設定
+# Jupyter Notebook Setting
 RUN python3 -m ipykernel install --user
